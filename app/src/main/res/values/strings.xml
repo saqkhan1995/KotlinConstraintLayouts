@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Playing</string>
+    <string name="constraint_layout">Constraint Layout</string>
+</resources>
